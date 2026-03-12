@@ -1,0 +1,12 @@
+[
+    {
+        "placa": "ABC1234",
+        "marca": "Toyota",
+        "propietario": "Daniel Luzuriaga"
+    },
+    {
+        "placa": "PAE3456",
+        "marca": "Kia",
+        "propietario": "Juan Perez"
+    }
+]
